@@ -1,11 +1,7 @@
 ---
 avatar_filename: temporary.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -52,6 +48,4 @@ title: Raghubir Singh
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Raghubir Singh is a lecturer in Artificial Intelligence at the [Department of Computer Science](https://www.bath.ac.uk/departments/department-of-computer-science/), University of Bath.
