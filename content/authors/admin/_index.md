@@ -1,5 +1,5 @@
 ---
-avatar_filename: temporary.jpg
+avatar_filename: ""
 bio: ""
 interests: []
 social:
@@ -25,19 +25,11 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "University of Bath "
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computation Offloading for Heterogeneous Networks
+      institution: University of Bristol
 superuser: true
 status:
   icon: ☕️
